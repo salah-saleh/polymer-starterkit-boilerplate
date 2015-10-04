@@ -1,0 +1,760 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"gr",
+				"group"
+			],
+			[
+				"uni",
+				"university"
+			],
+			[
+				"o",
+				"Object"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"d",
+				"dataArr"
+			],
+			[
+				"ke",
+				"keywords"
+			],
+			[
+				"comp",
+				"computeKeyowrdsIdsObj"
+			],
+			[
+				"co",
+				"computed"
+			],
+			[
+				"sa",
+				"savedPosition"
+			],
+			[
+				"c",
+				"computed"
+			],
+			[
+				"s",
+				"String"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"grou",
+				"groupUrl"
+			],
+			[
+				"_get",
+				"_getLoc"
+			],
+			[
+				"e",
+				"employees"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"m",
+				"myRes"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"key",
+				"keywords"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"g",
+				"gId"
+			],
+			[
+				"gro",
+				"group"
+			],
+			[
+				"pa",
+				"paragraph"
+			],
+			[
+				"se",
+				"Session"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"f",
+				"find"
+			],
+			[
+				"us",
+				"users"
+			],
+			[
+				"id",
+				"_id"
+			],
+			[
+				"in",
+				"insert"
+			],
+			[
+				"G",
+				"Group"
+			],
+			[
+				"opt",
+				"optional"
+			],
+			[
+				"te",
+				"template"
+			],
+			[
+				"keywo",
+				"keywordsIds"
+			],
+			[
+				"k",
+				"keywordsIds"
+			],
+			[
+				"M",
+				"Meteor"
+			],
+			[
+				"Us",
+				"UserRelations"
+			],
+			[
+				"op",
+				"optional"
+			],
+			[
+				"st",
+				"String"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"a",
+				"address"
+			],
+			[
+				"fa",
+				"faker"
+			],
+			[
+				"address",
+				"Address"
+			],
+			[
+				"au",
+				"authors"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"po",
+				"positive"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"tex",
+				"text-overflow"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"bal",
+				"black"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"ove",
+				"overflow-y"
+			],
+			[
+				"mag",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"ex",
+				"extend"
+			],
+			[
+				"cont",
+				"content-max-width"
+			],
+			[
+				"groups",
+				"Groups"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "close",
+		"selected_items":
+		[
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"save ",
+				"Project: Save As"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Function"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"mar",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"new",
+				"ANF: New File"
+			],
+			[
+				"chea",
+				"Cheat Sheet: Sublime Text"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"short",
+				"TabsShortcuts: Key Bindings – Default"
+			],
+			[
+				"goog",
+				"Google Spell Check"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"user",
+				"Preferences: Alignment Key Bindings – User"
+			],
+			[
+				"",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"align",
+				"Preferences: Alignment File Settings – Syntax Specific – User"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/sam/Documents/projects/web-projects/polymer-summit-examples/polymer-starter-kit-1.1.0",
+		"/Users/sam/Documents/projects/web-projects/polymer-summit-examples/polymer-starter-kit-1.1.0/app",
+		"/Users/sam/Documents/projects/web-projects/polymer-summit-examples/polymer-starter-kit-1.1.0/app/elements",
+		"/Users/sam/Documents/projects/web-projects/polymer-summit-examples/polymer-starter-kit-1.1.0/app/elements/scieprog-app"
+	],
+	"file_history":
+	[
+		"/Users/sam/Documents/projects/web-projects/polymer-summit-examples/polymer-starter-kit-1.1.0/app/elements/elements.html",
+		"/Users/sam/Documents/projects/web-projects/polymer-summit-examples/polymer-starter-kit-1.1.0/app/elements/scieprog-app/scieprog-app.html",
+		"/Users/sam/Documents/projects/web-projects/polymer-summit-examples/polymer-starter-kit-1.1.0/app/index.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-polymer1.0/app/elements/drafts/untitled4",
+		"/Users/sam/Documents/projects/web-projects/forsker-polymer1.0/app/elements/draft.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-polymer1.0/app/elements/drafts/untitled",
+		"/Users/sam/Documents/projects/web-projects/forsker-polymer1.0/app/elements/events/my-events-list.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-polymer1.0/app/elements/events/my-event.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-polymer1.0/app/elements/updates/my-update.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-polymer1.0/app/elements/scientists/my-scientist.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-polymer1.0/app/elements/scientists/my-scientists-list.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-polymer1.0/app/elements/updates/my-updates-list.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-polymer1.0/app/elements/keywords/my-keywords-list.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-polymer1.0/app/elements/groups/my-groups-list.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-polymer1.0/app/elements/keywords/my-keyword.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-polymer1.0/app/elements/groups/my-group.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-polymer1.0/app/elements/positions/my-positions-list.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-polymer1.0/app/elements/positions/position-card.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-polymer1.0/dist/bower_components/paper-styles/typography.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-polymer1.0/app/elements/elements.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-polymer1.0/app/elements/my-svg-icons/my-svg-icons.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-polymer1.0/app/elements/routing.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-polymer1.0/.gitignore",
+		"/Users/sam/Documents/projects/web-projects/forsker-polymer1.0/app/elements/my-svg-icons/my-speaker-icon/my-speaker-icon.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-polymer1.0/bower_components/iron-iconset-svg/demo/svg-sample-icons.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-polymer1.0/app/elements/my-svg-icons/my-groups-icon/my-groups-icon.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-polymer1.0/README.md",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/server/seed.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/lib/routes.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/lib/routes/positions_routes.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/groups/create_group/create_group.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/lib/collections/groups.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/server/methods/groups_methods.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/lib/routes/groups_routes.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/server/publish.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/lib/collections/events.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/autoformConfig.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/groups/edit_group/edit_group.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/groups/edit_group/edit_group.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/groups/create_group/create_group.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/userAccounts/userAccounts.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/lib/collections/users.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/groups/list_groups/list_groups.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/groups/list_groups/list_groups.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/groups/list_groups/_groupItem.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/groups/list_groups/_groupItem.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/lib/methods.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/lib/collections/address.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/template_helpers/keywords_helpers.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/groups/show_group/show_group.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/groups/show_group/show_group.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/layouts/master_layout/create_modal_content/create_modal.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/layouts/master_layout/master_layout.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/userAccounts/userAccounts.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/layouts/master_layout/master_layout.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/lib/routes/events_routes.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/layouts/master_layout/side_menu_content/side_menu_content.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/events/show_event/show_event.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/events/list_events/list_events.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/events/edit_event/edit_event.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/events/create_event/create_event.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/positions/show_position/show_position.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/lib/routes/updates_routes.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/updates/list_updates/list_updates.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/positions/list_positions/list_positions.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/positions/edit_position/edit_position.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/positions/create_position/create_position.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/layouts/master_layout/create_modal_content/create_modal.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/lib/routes/home_routes.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/layouts/master_layout/create_modal_content/_create_modal_content.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/layouts/master_layout/create_modal_content/_createModal.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/lib/collections/keywords.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/lib/routes/keywords_routes.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/keywords/list_keywords/list_keywords.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/keywords/list_keywords/_keywordItem.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/keywords/list_keywords/list_keywords.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/server/methods/keywords_methods.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/lib/collections/positions.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/keywords/create_keyword/create_keyword.html",
+		"/Users/sam/Library/Application Support/Sublime Text 3/Packages/User/fakerSnippet",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/lib/collections/posts.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/server/methods.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/reference",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/shared/right_side_menu/right_side_menu.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/index/index.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/shared/left_sidebar/left_sidebar.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/.meteor/local/build/programs/server/packages/meteoric_autoform-ionic.js.map",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/shared/header_bar/right_side_menu/right_side_menu.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/shared/header_bar/header_bar.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/shared/header_bar/left_sidebar/left_sidebar.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/head.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/ionic-templates/forms/forms.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/ionic-templates/forms/autoformConfig.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/ionic-templates/forms/forms.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/index/left_sidebar/left_sidebar.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/.meteor/local/build/programs/server/program.json",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/ionic-templates/userAccounts/accountsConfig.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/shared/header_bar/header_bar.css",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/shared/header_bar/header_bar.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/shared/nav_menu/nav_menu.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/shared/nav_menu/nav_menu.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/shared/nav_menu/right_side_menu/right_side_menu.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/shared/nav_menu/right_side_menu/_right_side_menu_items.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/index/main_left_col/main_left_col.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/lib/controllers/positions_controller.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/ionic-templates/index/index.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/ionic-templates/sideMenu/sideMenu.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/lib/controllers/users_controller.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/lib/controllers/groups_controller.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/layouts/master_layout/master_layout.scss",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/layouts/master_layout/master_layout.css",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/layouts/master_layout/main_right_col/main_right_col.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/layouts/master_layout/main_left_col/main_left_col.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/layouts/master_layout/left_sidebar/left_sidebar.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/layouts/master_layout/nav_menu/nav_menu.css",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/layouts/master_layout/nav_menu/nav_menu.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/layouts/master_layout/footer/footer.html",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/positions/create_position/create_position.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/.meteor/local/build/programs/server/packages/aldeed_collection2.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/groups/edit_groups/edit_group.css",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/groups/edit_groups/edit_group.js",
+		"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client/templates/groups/edit_groups/edit_group.html",
+		"/Users/sam/Library/Application Support/Sublime Text 3/Packages/Cheat Sheets/cheat-sheets/Bash.cheatsheet",
+		"/Users/sam/Library/Application Support/Sublime Text 3/Packages/Cheat Sheets/cheat-sheets/Sublime Text.cheatsheet",
+		"/Users/sam/Library/Application Support/Sublime Text 3/Packages/TabsShortcuts/Default (OSX).sublime-keymap",
+		"/Users/sam/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/sam/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/sam/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 94.0,
+		"where_history":
+		[
+			"/Users/sam/Documents/projects/web-projects/forsker-polymer1.0/app/",
+			"/Users/sam/Documents/projects/web-projects/forsker-polymer1.0",
+			"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app",
+			"/Users/sam/Documents/projects/web-projects/forsker-meteor-bootstrap/app/client",
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"my-group",
+			"x-login",
+			"https://mysite.firebaseio.com/",
+			"hi9",
+			"document",
+			"groups-list",
+			"href=\"{{",
+			"href=\"[[",
+			"_keywordUrl",
+			"_itemUrl",
+			"_countObj",
+			"_ObjToArray",
+			"_positionUrl",
+			"_scientistUrl",
+			"_ObjToArray",
+			"_itemUrl",
+			"_ObjToArray",
+			"_itemUrl",
+			"_universityUrl",
+			"_groupUrl",
+			"_itemUrl",
+			"_keywordUrl",
+			"ObjToArray",
+			"_ObjToArray",
+			"_groupUrl",
+			"_countObj",
+			"obj",
+			"_toArray",
+			"myKeywordsArr",
+			"keywordObj",
+			"ref",
+			"deadline",
+			"position",
+			"}}",
+			"{{",
+			"}}",
+			"{{",
+			"compute",
+			"positionId",
+			"position-edit",
+			"data",
+			"{{",
+			"_computeLink",
+			"groupName",
+			"position",
+			"class",
+			"univer",
+			"limit",
+			"submitQuestion",
+			"count",
+			"obj.keywordsIds",
+			"title",
+			"item",
+			"ext",
+			"_queryChanged",
+			".child",
+			"result",
+			"_getperson(",
+			"item",
+			"_url",
+			"menu",
+			"paper-",
+			"position",
+			"firebase-child-added",
+			"positionId",
+			"positionid",
+			"positionId",
+			"key",
+			"drawer-panel",
+			"aa",
+			"s-list",
+			"scientist",
+			"scientists",
+			"my-",
+			"-\">",
+			"greeting",
+			"h2",
+			"paper-font-body2",
+			"font",
+			"licen",
+			"paper-font-display2",
+			"h2",
+			"images",
+			"Polymer Starter Kit",
+			"favi",
+			"gId",
+			"Group",
+			"group",
+			"authors",
+			"Accounts.ui.config(",
+			"    );",
+			"ListGroups",
+			"KeywordsName",
+			"index",
+			"groups",
+			"Group",
+			"Position",
+			"Positions",
+			"position",
+			"Group",
+			"Groups",
+			"groups",
+			"// IonPopup.close();",
+			"showPopup",
+			"Create",
+			"Block Button",
+			"user",
+			"p",
+			"subscriptions",
+			"groups",
+			"group",
+			"Group",
+			"group",
+			"optional: true,",
+			"optional:true,",
+			"return",
+			"checkAuthor",
+			"false",
+			"button",
+			"href=\"{{pathFor route='#'}}\"",
+			"bell",
+			"add",
+			"clock",
+			"bolt",
+			"90deg",
+			"=\"item",
+			"/a",
+			"='#'}}\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"href$=\"{{",
+			"href$=\"[[",
+			"_ObjToArray"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "scieprog.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"account",
+				"app/client/templates/ionic-templates/userAccounts/accountsConfig.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 199.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
